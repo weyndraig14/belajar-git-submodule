@@ -74,12 +74,7 @@ GIT BRANCHING
         2. Forking Workflow memungkinkan kolaborasi sambil mempertahankan kontrol atas repositori utama dan memastikan perubahan ditinjau sebelum integrasi.
 
 
-2. PERTANYAAN
-
-        a) Apakah lebih baik menggunakan squash atau rebase?
-
-
-3. KESIMPULAN
+2. KESIMPULAN
 
        Kesimpulannya, memahami berbagai strategi Branching Git seperti Gitflow, Trunk Based Development, dan Forking Workflow memberikan fleksibilitas kepada pengembang dalam mengelola kontrol versi dan kolaborasi.
        Setiap strategi memiliki kelebihan dan cocok untuk berbagai kebutuhan proyek. Baik itu mempertahankan proses pengembangan yang terstruktur, memungkinkan pengiriman fitur yang cepat,
