@@ -1,4 +1,4 @@
-# GIT BRANCH 
+# GIT BRANCHING
 --- 
 
 # 1. POIN UTAMA:
