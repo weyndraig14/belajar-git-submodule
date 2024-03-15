@@ -19,7 +19,7 @@
 ```
 ---
 
- ###  **B.Merging**
+ ###  **B. Merging**
  ```
  - Untuk menggabungkan perubahan dari satu branch ke branch lainnya di Git, alihkan ke branch tujuan dan gunakan perintah "git merge".
 
@@ -31,13 +31,13 @@
 ```
 ---
 
-   ### **C.Cherry Pick**
+   ### **C. Cherry Pick**
    ```
  - Cherry-pick memungkinkan untuk memilih commit tertentu dari satu branch dan menerapkannya ke branch lain, berguna ketika Anda hanya ingin menerapkan perubahan tertentu.
  ```
 ---
 
-  ### D.Tags
+  ### D. Tags
  ```
  - Tags di Git adalah referensi untuk commit tertentu, yang sering digunakan untuk menandai versi rilis aplikasi.
 
@@ -49,7 +49,7 @@
 ```
 ---
 
-  ### E.Stash
+  ### E. Stash
 ```
  - Stashing di Git memungkinkan penyimpanan sementara perubahan yang dibuat di Working directory atau staging index.
 
@@ -62,7 +62,7 @@
  - Stash dapat dihapus menggunakan git stash drop [stashid] atau git stash clear.
 ```
 ---
-  ### F.Rebase
+  ### F. Rebase
  ```
  - Melakukan "rebase" di Git melibatkan pemindahan ke branch tempat Anda ingin menerapkan perubahan, tidak seperti merging di mana Anda tetap berada di cabang saat ini.
 
@@ -79,12 +79,12 @@
  - Git branching memungkinkan penggabungan beberapa commit menjadi satu dengan menggunakan perintah "squash".
  ```
 ---
- ###  G.Trunk Based Development
+ ###  G. Trunk Based Development
  ```
  - Trunk Based Development menyederhanakan branching dengan hanya satu branch utama, dengan fokus pada pengiriman fitur yang cepat langsung ke produksi setelah pengujian.
 ```
 ---
-###  H.Forking Workflow
+###  H. Forking Workflow
 ```
    - Forking Workflow adalah hal yang umum dalam project open source, di mana kontributor menduplikasi repositori utama, membuat perubahan dalam fork mereka, dan kemudian meminta perubahan tersebut untuk         digabungkan ke dalam proyek utama.
 
